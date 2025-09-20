@@ -36,7 +36,7 @@ This project consists of two parts:
 ## Demo
 
 You can try it live here:  
-[Number-Recogisation (Hugging Face Spaces frontend)](https://huggingface.co/spaces/KishoreR123/Number-Recogisation) :contentReference[oaicite:0]{index=0}
+## [Number-Recogisation (Hugging Face Spaces frontend)](https://huggingface.co/spaces/KishoreR123/Number-Recogisation)
 
 ---
 
